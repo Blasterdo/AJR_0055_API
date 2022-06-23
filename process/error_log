@@ -1,0 +1,26 @@
+[21-Jun-2022 22:33:01 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[21-Jun-2022 22:33:07 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 17:57:18 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 17:57:43 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 17:58:50 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 18:09:46 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 18:39:18 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomEditDriverProcess.php on line 6
+[22-Jun-2022 18:43:26 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 18:55:32 Asia/Jakarta] PHP Notice:  Undefined index: id_driver in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
+[22-Jun-2022 19:06:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/ajrxyz13/public_html/process/editTransaksiProcess.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ajrxyz13/public_html/process/editTransaksiProcess.php on line 35
+[22-Jun-2022 19:06:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/ajrxyz13/public_html/process/editTransaksiProcess.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ajrxyz13/public_html/process/editTransaksiProcess.php on line 35
+[22-Jun-2022 19:06:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/ajrxyz13/public_html/process/editTransaksiProcess.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ajrxyz13/public_html/process/editTransaksiProcess.php on line 35
+[22-Jun-2022 19:06:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/ajrxyz13/public_html/process/editTransaksiProcess.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ajrxyz13/public_html/process/editTransaksiProcess.php on line 35
+[22-Jun-2022 20:50:17 Asia/Jakarta] PHP Warning:  Undefined array key "id_driver" in /home/ajrxyz13/public_html/process/randomDriverProcess.php on line 6
